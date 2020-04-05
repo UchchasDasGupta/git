@@ -13,4 +13,8 @@ public class Hello {
 =======
    
 >>>>>>> anotherBranch
+
+public static void add(int a, int b){
+    return a+b;
+}
 }
